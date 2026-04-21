@@ -6,5 +6,3 @@
 - 🤔 I’m looking for help with Flask and AWS.
 - 💬 Ask me about my favorites programming language.
 - 📫 How to reach me: Alex Daniel Alonso Macha.
-- 😄 Pronouns: He.
-- ⚡ Fun fact: I paid for WinRAR.
